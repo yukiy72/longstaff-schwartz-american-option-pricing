@@ -1,6 +1,6 @@
 # American Option Pricing using Longstaff-Schwartz Methods (Monte Carlo Simulation)
 
-The content of this notebook is based on Chapter 8 of the book "Monte Carlo Methods in Financial Engineering" by Paul Glasserman. <br>
+The content of this notebook is based on "Valuing American Options by Simulation: A Simple Least-Squares Approach" by Longstaﬀ and Schwartz. <br>
 
 ## Overview
 
@@ -56,6 +56,6 @@ where:
 
 ## References
 
-1. Glasserman, P. (2003) *Monte Carlo Methods in Financial Engineering*. Springer, New York.
+1. F. A. Longstaﬀ and E. S. Schwartz. Valuing American Options by Simulation: A Simple Least-Squares Approach. *The Review of Financial Studies*, 14(1):113–147, 2001.
 
 ---
